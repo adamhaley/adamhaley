@@ -1,0 +1,24 @@
+{
+  "name": "adamhaley.com",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adamhaley/adamhaley",
+  "authors": [
+    "Adam Haley <adamhaley@gmail.com>"
+  ],
+  "description": "Official Adam Haley Website",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+1",
+    "bootstrap": "~3.2.0"
+  }
+}

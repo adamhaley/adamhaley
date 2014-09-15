@@ -6,10 +6,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "grunt-contrib-watch":"",
-    "grunt-contrib-cssmin":"",
-    "grunt-contrib-uglify":"",
-    "grunt-contrib-jshint":"",
-    "grunt-contrib-concat":""
+    "express": "3.4.7",
+    "jade": "*",
+    ".": "*"
   }
 }

@@ -5,10 +5,22 @@ body {
 }
 
 /* line 8, ../sass/main.scss */
+#projects {
+  height: 500px !important;
+  width: 100%;
+}
+/* line 12, ../sass/main.scss */
+#projects .item img {
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 19, ../sass/main.scss */
 #orb {
-  width: 25%;
-  height: 25%;
-  background-image: url(../img/AHorb.jpg);
+  width: 200px;
+  height: 180px;
+  background-image: url(/img/AHorb.jpg);
   margin-left: auto;
   margin-right: auto;
 }

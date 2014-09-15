@@ -2,76 +2,72 @@
 	"projects":[
 		{
 			"name": "AnchorVan",
-			"start_date": "",
-			"end_date":"",
+			"start_date": "2-2014",
+			"end_date":"3-2014",
 			"url":"http://www.anchorvan.com",
 			"agency": "The Branding Farm",
 			"tech_stack":"AngularJS, JQuery, Bootstrap",
 			"screenshots":[
+				"anchorvan.png"
 			],
 			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
 		},
 		{
 			"name": "Skechers DSA",
-			"start_date": "",
-			"end_date":"",
+			"start_date": "12-2013",
+			"end_date":"2-2014",
 			"url":"http://skechersdsa.com",
 			"agency": "The Branding Farm",
 			"tech_stack":"AngularJS, Bootstrap, NodeJS, MongoDB",
 			"screenshots":[
+				"skechers.png"
 			],
 			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
 		},
 		{
 			"name": "JJGym Calendar",
-			"start_date": "",
-			"end_date":"",
+			"start_date": "11-2013",
+			"end_date":"12-2013",
 			"url":"http://jjgym.com:3000",
 			"agency": "AH Media",
 			"tech_stack":"AngularJS, Bootstrap, NodeJS, MySQL",
 			"screenshots":[
+				"jjgym.png"
 			],
 			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
 		},
 		{
 			"name": "VW.com",
-			"start_date": "",
-			"end_date":"",
+			"start_date": "3-2013",
+			"end_date":"10-2013",
 			"url":"http://www.vw.com",
 			"agency": "Deutsch LA",
 			"tech_stack":"Backbone.js, Bootstrap, Mustache, Adobe CQ",
 			"screenshots":[
+				"vw.png"
 			],
 			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
 		},
-		{
-			"name": "VW Smiledrive",
-			"start_date": "",
-			"end_date":"",
-			"url":"http://smiledrive.vw.com",
-			"agency": "Deutsch LA",
-			"tech_stack":"Backbone.js, RequireJS, Mustache, Google App Engine",
-			"screenshots":[
-			],
-			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
-		},
+	
 		{"name": "AV TimeView",
-			"start_date": "",
-			"end_date":"",
+			"start_date": "5-2012",
+			"end_date":"9-2012",
 			"url":"",
 			"agency": "Added Value",
 			"tech_stack":"Backbone.js, RequireJS, Mustache, nodeJS",
 			"screenshots":[
+				"timeview.png"
 			],
 			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
 		},
 		{"name": "Spoonful",
-			"start_date": "",
-			"end_date":"",
+			"start_date": "11-2011",
+			"end_date":"4-2012",
 			"url":"http://spoonful.com",
 			"agency": "Disney",
 			"tech_stack":"RequireJS, Mustache, Apache Solr Search",
 			"screenshots":[
+				"spoonful.png"
 			],
 			"blurb":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. At sit dolorum deserunt odio molestias harum voluptate magnam vel sequi? Qui ut provident vero placeat autem alias laborum atque odit dolorem!"
 		}

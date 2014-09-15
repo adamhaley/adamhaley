@@ -4,5 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
+	var data = require('../public/data/projects.json');
+
+  	res.render('index', { title: 'Adam Haley',data: data });
 };

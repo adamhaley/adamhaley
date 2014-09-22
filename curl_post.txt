@@ -1,0 +1,1 @@
+curl -X POST -H 'Content-Type: application/json' -d '{"name": "St. Vincent","start_date": "8-2014","end_date":"9-2014","url":"http://www.stvincentfilm.com","tech_stack":"Tumblr Theme, JQuery, Bootstrap","screenshot":"stvincent.png","blurb":"Lorem ipsum test dolor" }' http://localhost:4000/projects

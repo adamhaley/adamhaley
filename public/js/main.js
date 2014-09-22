@@ -1,3 +1,3 @@
-$(document).ready(function(){
-	$('.carousel').find('.item:first').addClass('active');
+$(document).ready(function() {
+  $(".carousel").find(".item:first").addClass("active");
 });
